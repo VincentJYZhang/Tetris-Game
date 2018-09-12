@@ -2,7 +2,7 @@
 
 > Tetris WinAPI Win32 C/C++
 
-Win32程序，主要代码在 [TetrisGame_zjy.cpp](https://github.com/VincentJYZhang/tetris-game/blob/master/Source%20Code/TetrisGame_zjy.cpp) 和 [Shapes.h](https://github.com/VincentJYZhang/tetris-game/blob/master/Source%20Code/Shapes.h) 中。
+Win32程序，使用WinAPI，主要代码在 [TetrisGame_zjy.cpp](https://github.com/VincentJYZhang/tetris-game/blob/master/Source%20Code/TetrisGame_zjy.cpp) 和 [Shapes.h](https://github.com/VincentJYZhang/tetris-game/blob/master/Source%20Code/Shapes.h) 中。
 
 ## 形状存储
 
